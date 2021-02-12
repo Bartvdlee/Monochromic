@@ -1,0 +1,4 @@
+@import url('https://cdn.gameboys.xyz/quicksand/stylesheet.css'); body, h1, h2, h3, h4 {
+    font-family: 'Quicksand', sans-serif;
+  }
+.playedIndicator {background: #00000058;}
