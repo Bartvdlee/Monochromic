@@ -1,11 +1,7 @@
 .innerCardFooter,
 .countIndicator, 
 .playedIndicator {
-  background: rgba(0,0,0,0.4); 
-  box-shadow: none;
-}
-.countIndicator {
-  box-shadow: none;
+  background: #00000058;
 }
 #loginPage .readOnlyContent,
 #loginPage form {
