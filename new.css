@@ -2,6 +2,10 @@
 .countIndicator, 
 .playedIndicator {
   background: #00000058;
+  box-shadow: none;
+}
+.countIndicator {
+  box-shadow: none;
 }
 #loginPage .readOnlyContent,
 #loginPage form {
