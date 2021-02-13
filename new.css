@@ -28,7 +28,32 @@ margin-top: 50px
   justify-content: space-between;
   pointer-events: none;
 }
-
 .emby-scrollbuttons-button {
   pointer-events: initial;
+}
+.cardContent-button,
+.cardContent-shadow,
+.itemDetailImage,
+.cardOverlayButton-hover,
+.cardOverlayContainer,
+.cardImageContainer,
+.cardPadder,
+.listItemImage,
+.listItemImageButton,
+.listItemButton,
+.headerButton,
+.paper-icon-button-light,
+.innerCardFooter,
+.blurhash-canvas,
+.actionSheetMenuItem:hover,
+.dialog {
+    border-radius: 10px !important;
+}
+.dialog {
+    background-color: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(60px) !important;
+    -webkit-backdrop-filter: blur(60px) !important;
+    -moz-backdrop-filter: blur (60px) !important;
+    -o-backdrop-filter: blur(60px) !important;
+    box-shadow: 0 0 20px 4px black;
 }
