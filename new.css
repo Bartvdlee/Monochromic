@@ -18,12 +18,6 @@ display: none
 margin-top: 50px
 }
 #loginPage .raised.cancel.block.btnManual.emby-button {display: none}
-@media all and (min-width: 131.25em){
-#castContent .card.overflowPortraitCard {
-  width: 6.3vw !important; 
-  font-size: 90% !important;
-}
-}
 .emby-scrollbuttons {
   position: absolute;
   left: 0;
