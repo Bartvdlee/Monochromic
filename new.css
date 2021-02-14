@@ -118,7 +118,9 @@ margin-top: 50px
 }
 
 /* make banner transparant */
-.detailPagePrimaryContainer {background: #00000000 !important;}
+.detailPagePrimaryContainer {background: #00000000 !important; margin-top: 0 !important}
+.itemBackdrop::after {background-color: #00000000 !important; background: none;}
+
 /*
 .formDialogHeader, .formDialogFooter {
   background-color: #101010 !important;
