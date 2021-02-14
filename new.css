@@ -84,7 +84,8 @@ margin-top: 50px
     box-shadow: 0 0 5px 2px black;
 }
 
-.actionSheetMenuItem:hover {background-color: rgba(185, 203, 224, 0.068);}
+/*.actionSheetMenuItem:hover {background-color: rgba(185, 203, 224, 0.068);}*/
+.actionSheetMenuItem:hover {background-color: #00000000;}
 
 /* menu dialogue theme */
 .mainDrawer {
@@ -96,7 +97,8 @@ margin-top: 50px
   box-shadow: 0 0 8px 3px black;
 }
 
-.navMenuOption:hover {background-color: rgba(185, 203, 224, 0.068);}
+/*.navMenuOption:hover {background-color: rgba(185, 203, 224, 0.068);}*/
+.navMenuOption:hover {background-color: #00000000;}
 
 /* nicer play button */
 .cardOverlayFab-primary {background-color: #00000000;}
