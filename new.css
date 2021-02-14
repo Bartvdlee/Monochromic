@@ -134,8 +134,8 @@ margin-top: 50px
 }
 
 /* dim background */
-/*.backdropImage {filter: brightness(50%);}*/
-.backgroundContainer {background-color: rgba(0, 0, 0, 0.5) !important;/* filter: blur(10px);*/}
+.backdropImage {filter: brightness(50%);}
+/*.backgroundContainer {background-color: rgba(0, 0, 0, 0.5) !important; filter: blur(10px);}*/
 
 /*
 .formDialogHeader, .formDialogFooter {
