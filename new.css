@@ -47,7 +47,7 @@ margin-top: 50px
 .blurhash-canvas,
 .actionSheetMenuItem:hover,
 .dialog {
-    border-radius: 5px !important;
+    border-radius: 6px !important;
 }
 .dialog,
 .toast {
