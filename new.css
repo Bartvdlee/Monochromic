@@ -133,6 +133,9 @@ margin-top: 50px
     .detailPageWrapperContainer {margin-top: 5em;}
 }
 
+/* dim background */
+.backgroundContainer {background-color: rgba(0, 0, 0, 0);}
+
 /*
 .formDialogHeader, .formDialogFooter {
   background-color: #101010 !important;
