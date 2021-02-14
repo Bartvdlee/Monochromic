@@ -52,7 +52,7 @@ margin-top: 50px
 .dialog,
 .toast {
     background-color: rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(60px) !important;
+    backdrop-filter: blur(80px) !important;
     -webkit-backdrop-filter: blur(60px) !important;
     -moz-backdrop-filter: blur (60px) !important;
     -o-backdrop-filter: blur(60px) !important;
