@@ -49,16 +49,15 @@ margin-top: 50px
 .dialog {
     border-radius: 5px !important;
 }
-.dialog,
-.toast {
-    background-color: rgba(0, 0, 0, 0.3);
+.dialog {
+    background-color: rgba(0, 0, 0, 0.5);
     /*backdrop-filter: blur(80px) !important;
     -webkit-backdrop-filter: blur(60px) !important;
     -moz-backdrop-filter: blur (60px) !important;
-    -o-backdrop-filter: blur(60px) !important; */
-    box-shadow: 0 0 10px 6px black;
+    -o-backdrop-filter: blur(60px) !important;
+    box-shadow: 0 0 10px 4px black;*/
 }
-.mainDrawer {background-color: rgb(0, 0, 0.3);}
+.actionSheetMenuItem:hover {background-color: rgba(185, 203, 224, 0.068);}
 .cardOverlayFab-primary {background-color: #00000000;}
 .cardOverlayButtonIcon {background-color: #00000000 !important;}
 .cardOverlayContainer {background-color: rgba(0, 0, 0, 0.7);}
