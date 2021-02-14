@@ -51,17 +51,13 @@ margin-top: 50px
 }
 .dialog {
     background-color: rgba(0, 0, 0, 0.5);
-    /*backdrop-filter: blur(80px) !important;
-    -webkit-backdrop-filter: blur(60px) !important;
-    -moz-backdrop-filter: blur (60px) !important;
-    -o-backdrop-filter: blur(60px) !important;
-    box-shadow: 0 0 10px 4px black;*/
+    box-shadow: 0 0 5px 2px black;
 }
 .actionSheetMenuItem:hover {background-color: rgba(185, 203, 224, 0.068);}
 .cardOverlayFab-primary {background-color: #00000000;}
 .cardOverlayButtonIcon {background-color: #00000000 !important;}
 .cardOverlayContainer {background-color: rgba(0, 0, 0, 0.7);}
-.trackSelections {max-width: 16em;}
+.trackSelections {max-width: 18em;}
 /*.actionSheetMenuItem:hover {
   background-color: rgba(0, 164, 220, 0.2);
 }
