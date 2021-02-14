@@ -37,6 +37,7 @@ margin-top: 50px
 .cardOverlayButton-hover,
 .cardOverlayContainer,
 .cardImageContainer,
+.itemAction,
 .cardPadder,
 .listItemImage,
 .listItemImageButton,
@@ -54,10 +55,13 @@ margin-top: 50px
     box-shadow: 0 0 5px 2px black;
 }
 .actionSheetMenuItem:hover {background-color: rgba(185, 203, 224, 0.068);}
-.cardOverlayFab-primary {background-color: #00000000;}
+/*.cardOverlayFab-primary {background-color: #00000000;}
 .cardOverlayButtonIcon {background-color: #00000000 !important;}
-.cardOverlayContainer {background-color: rgba(0, 0, 0, 0.7);}
+.cardOverlayContainer {background-color: rgba(0, 0, 0, 0.7);} */
 .trackSelections {max-width: 18em;}
+#castContent .card.overflowPortraitCard {width: 4.2cm !important; font-size: 90% !important;}
+.cardPadder {background-color: #0000 !important; box-shadow: none !important;}
+#castContent .cardScalable {width:  3.8cm !important; height: 3.8cm !important;}
 /*.actionSheetMenuItem:hover {
   background-color: rgba(0, 164, 220, 0.2);
 }
