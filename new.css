@@ -47,7 +47,7 @@ margin-top: 50px
 .blurhash-canvas,
 .actionSheetMenuItem:hover,
 .dialog {
-    border-radius: 6px !important;
+    border-radius: 5px !important;
 }
 .dialog,
 .toast {
@@ -58,7 +58,10 @@ margin-top: 50px
     -o-backdrop-filter: blur(60px) !important;
     box-shadow: 0 0 20px 4px black;
 }
-.actionSheetMenuItem:hover {
+.cardOverlayFab-primary {background-color: #00000000;}
+.cardOverlayButtonIcon {background-color: #00000000 !important;}
+.cardOverlayContainer {background-color: rgba(0, 0, 0, 0.7);}
+/*.actionSheetMenuItem:hover {
   background-color: rgba(0, 164, 220, 0.2);
 }
 .mainDrawer {
@@ -74,4 +77,4 @@ margin-top: 50px
 .formDialogFooter.formDialogFooter-clear.formDialogFooter-flex,
 .collapseContent {
   background-color: #0000 !important;
-}
+} */
