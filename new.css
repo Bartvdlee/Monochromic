@@ -61,6 +61,7 @@ margin-top: 50px
 .cardOverlayFab-primary {background-color: #00000000;}
 .cardOverlayButtonIcon {background-color: #00000000 !important;}
 .cardOverlayContainer {background-color: rgba(0, 0, 0, 0.7);}
+.trackSelections {max-width: 16em;}
 /*.actionSheetMenuItem:hover {
   background-color: rgba(0, 164, 220, 0.2);
 }
