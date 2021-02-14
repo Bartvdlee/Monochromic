@@ -11,9 +11,9 @@
   margin-top: auto; 
   margin-bottom: auto;
 }
-/*.emby-tab-button {
-  padding: 1.75em 1.7em;
-}*/
+.emby-tab-button {
+  padding: 110% 1.7em;
+}
 
 /* play and count indicator dark and transparant */
 .innerCardFooter,
